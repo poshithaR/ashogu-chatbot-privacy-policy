@@ -1,26 +1,8 @@
-<h1>Privacy Policy</h1></br>
-<b>What do we collect</b>
-We are not collecting any of your information.
+<h1>Privacy Policy for "Simple Chatbot" Alexa Skill</h1>
+<p>At Simple Chatbot, we take your privacy very seriously. As an Alexa skill powered by ChatGPT, our focus is solely on providing a high-quality conversational experience to our users. We do not collect any personally identifiable information from our users because this product is for testing OpenAI with Alexa skill.</p>
 
-<h4>Your privacy is important to us.<h4>
-It is our policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
+<p>Simple Chatbot does not store any user data, including your voice recordings, personal information, or chat history. We do not share any user data with third parties, including advertisers, marketers, or other service providers.</p>
 
-We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.
-Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-We will make readily available to customers information about our policies and practices relating to the management of personal information.
-We will only retain personal information for as long as necessary for the fulfilment of those purposes.
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. We may change this privacy policy from time to time at our sole discretion.
+<p>Please note that Amazon may collect certain usage data from Simple Chatbot for the purpose of improving the Alexa platform's performance. However, this information is anonymized and cannot be traced back to individual users.</p>
 
-California Residents
-To the extent provided for by law and subject to applicable exceptions, California residents have the following privacy rights in relation to their Personal Information:
-
-The right to know information about our processing of your Personal Information, including the specific pieces of Personal Information that we have collected from you
-The right to request deletion of your Personal Information;
-The right to correct your Personal Information; and
-The right to be free from discrimination relating to the exercise of any of your privacy rights.
-We donâ€™t sell or share Personal Information as defined by the California Consumer Privacy Act, as amended by the California Privacy Rights Act. We also donâ€™t process sensitive personal information for the purposes of inferring characteristics about a consumer
-Open AI
-Because we make use of OpenAI API, we must send them your questions. Data sent to Open AI is governed by their privacy policy, which can be found here: https://openai.com/policies/privacy-policy
+<p>In summary, Simple Chatbot does not collect, store, or share any user data, ensuring that your privacy is protected at all times. If you have any questions or concerns about our privacy policy, please contact us through the Alexa app.</p>
